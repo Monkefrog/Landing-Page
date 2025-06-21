@@ -4,4 +4,6 @@ sadly you cannot see any progress because i corrupted my folder so i needed to c
 
 Took me the whole day but im proud of myself. 
 
-Thanks to The Odin Project
+
+
+Thanks to The Odin Project it is really fun 
